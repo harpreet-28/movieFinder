@@ -1,0 +1,23 @@
+{
+  "name": "moviefind",
+  "version": "1.0.0",
+  "description": "movie finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harpreet",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^2.2.1",    
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "reactify": "*",
+    "gulp-install": "^1.1.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
